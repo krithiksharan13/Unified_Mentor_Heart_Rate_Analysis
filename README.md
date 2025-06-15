@@ -3,7 +3,7 @@ This repository contains code and resources for conducting analysis on health & 
 
 ## Project Overview
 
-**I completed this analysis as part of my 1 month internship at Unified Mentor. I was asked to analyze the health and medical data &amp; come up with meaningful insights.**
+**I completed this analysis as part of my internship at Unified Mentor. I was asked to analyze the health and medical data &amp; come up with meaningful insights.**
 
 [Tableau Dashboard](https://public.tableau.com/views/HeartRateDiagnosticDataAnalysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
